@@ -1,2 +1,2 @@
 # Javaskill
-course
+javascript is an Programming language
