@@ -1,2 +1,2 @@
 # Javaskill
-javascript is an Programming language
+javascript is an Programming language to create the web page
